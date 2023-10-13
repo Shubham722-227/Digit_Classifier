@@ -56,7 +56,8 @@ jupyter notebook
 ## Usage
 The Jupyter Notebook can be used as a starting point for handwritten digit recognition tasks using Naive Bayes classifiers. You can modify the dataset, use different classifiers, or further customize the code to fit your specific requirements
 ## Screenshots
-* Accuracy :
+* Accuracy
+  
 ![Accuracy](img/Accuracy.png)
 
 
