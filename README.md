@@ -72,6 +72,10 @@ The Jupyter Notebook provides the following results:
 * Predictions on 20 random images.
 * Probability table for all single-digit numbers.
 You can analyze these results to understand the performance of the model.
+
+### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/techs4shubq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ## Authors
 
 - [@Shubham Singh](https://github.com/Shubham722-227)
